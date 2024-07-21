@@ -9,4 +9,19 @@ __pycache__
 myvenv/
 venv/
 
-#
+# macOS
+._*
+.DS_Store
+.fsevented
+.Spotlight-V100
+
+# Wimdows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
